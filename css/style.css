@@ -1,0 +1,29 @@
+body {
+  background-color: #c3c5b8;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  width: 120px;
+  height: 40px;
+  background: #747070;
+  border: 2px solid #757373;
+  border-radius: 4%;
+  color: #ffff;
+  font-weight: 400;
+}
+
+ul {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+li {
+  font-size: 20px;
+}
+
+.big {
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */

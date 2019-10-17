@@ -1,0 +1,28 @@
+body {
+    background-color: #c3c5b8;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    width: 120px;
+    height: 40px;
+    background: rgb(116, 112, 112);
+    border: 2px solid rgb(117, 115, 115);
+    border-radius: 4%;
+    color: #ffff;
+    font-weight: 400;
+}
+
+ul {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+li {
+    font-size: 20px;
+}
+
+.big {
+    font-size: 30px;
+}
